@@ -1,0 +1,30 @@
+D:\pg\bin\Debug\netcoreapp2.0\pg.deps.json
+D:\pg\bin\Debug\netcoreapp2.0\pg.runtimeconfig.json
+D:\pg\bin\Debug\netcoreapp2.0\pg.runtimeconfig.dev.json
+D:\pg\bin\Debug\netcoreapp2.0\pg.dll
+D:\pg\bin\Debug\netcoreapp2.0\pg.pdb
+D:\pg\obj\Debug\netcoreapp2.0\pg.csproj.CoreCompileInputs.cache
+D:\pg\obj\Debug\netcoreapp2.0\pg.AssemblyInfoInputs.cache
+D:\pg\obj\Debug\netcoreapp2.0\pg.AssemblyInfo.cs
+D:\pg\obj\Debug\netcoreapp2.0\pg.dll
+D:\pg\obj\Debug\netcoreapp2.0\pg.pdb
+H:\pg\bin\Debug\netcoreapp2.0\pg.deps.json
+H:\pg\bin\Debug\netcoreapp2.0\pg.runtimeconfig.json
+H:\pg\bin\Debug\netcoreapp2.0\pg.runtimeconfig.dev.json
+H:\pg\bin\Debug\netcoreapp2.0\pg.dll
+H:\pg\bin\Debug\netcoreapp2.0\pg.pdb
+H:\pg\obj\Debug\netcoreapp2.0\pg.csproj.CoreCompileInputs.cache
+H:\pg\obj\Debug\netcoreapp2.0\pg.AssemblyInfoInputs.cache
+H:\pg\obj\Debug\netcoreapp2.0\pg.AssemblyInfo.cs
+H:\pg\obj\Debug\netcoreapp2.0\pg.dll
+H:\pg\obj\Debug\netcoreapp2.0\pg.pdb
+H:\งาน MVC vc#\pg\bin\Debug\netcoreapp2.0\pg.deps.json
+H:\งาน MVC vc#\pg\bin\Debug\netcoreapp2.0\pg.runtimeconfig.json
+H:\งาน MVC vc#\pg\bin\Debug\netcoreapp2.0\pg.runtimeconfig.dev.json
+H:\งาน MVC vc#\pg\bin\Debug\netcoreapp2.0\pg.dll
+H:\งาน MVC vc#\pg\bin\Debug\netcoreapp2.0\pg.pdb
+H:\งาน MVC vc#\pg\obj\Debug\netcoreapp2.0\pg.csproj.CoreCompileInputs.cache
+H:\งาน MVC vc#\pg\obj\Debug\netcoreapp2.0\pg.AssemblyInfoInputs.cache
+H:\งาน MVC vc#\pg\obj\Debug\netcoreapp2.0\pg.AssemblyInfo.cs
+H:\งาน MVC vc#\pg\obj\Debug\netcoreapp2.0\pg.dll
+H:\งาน MVC vc#\pg\obj\Debug\netcoreapp2.0\pg.pdb
