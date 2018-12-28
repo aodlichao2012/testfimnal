@@ -28,3 +28,14 @@ H:\งาน MVC vc#\pg\obj\Debug\netcoreapp2.0\pg.AssemblyInfoInputs.cache
 H:\งาน MVC vc#\pg\obj\Debug\netcoreapp2.0\pg.AssemblyInfo.cs
 H:\งาน MVC vc#\pg\obj\Debug\netcoreapp2.0\pg.dll
 H:\งาน MVC vc#\pg\obj\Debug\netcoreapp2.0\pg.pdb
+G:\etc\งาน MVC vc# and web api\pg\bin\Debug\netcoreapp2.0\pg.deps.json
+G:\etc\งาน MVC vc# and web api\pg\bin\Debug\netcoreapp2.0\pg.runtimeconfig.json
+G:\etc\งาน MVC vc# and web api\pg\bin\Debug\netcoreapp2.0\pg.runtimeconfig.dev.json
+G:\etc\งาน MVC vc# and web api\pg\bin\Debug\netcoreapp2.0\pg.dll
+G:\etc\งาน MVC vc# and web api\pg\bin\Debug\netcoreapp2.0\pg.pdb
+G:\etc\งาน MVC vc# and web api\pg\obj\Debug\netcoreapp2.0\pg.csprojAssemblyReference.cache
+G:\etc\งาน MVC vc# and web api\pg\obj\Debug\netcoreapp2.0\pg.csproj.CoreCompileInputs.cache
+G:\etc\งาน MVC vc# and web api\pg\obj\Debug\netcoreapp2.0\pg.AssemblyInfoInputs.cache
+G:\etc\งาน MVC vc# and web api\pg\obj\Debug\netcoreapp2.0\pg.AssemblyInfo.cs
+G:\etc\งาน MVC vc# and web api\pg\obj\Debug\netcoreapp2.0\pg.dll
+G:\etc\งาน MVC vc# and web api\pg\obj\Debug\netcoreapp2.0\pg.pdb
